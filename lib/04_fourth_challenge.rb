@@ -12,7 +12,13 @@ def fourth_challenge
         :name => "Mercutio",
         :age => "18",
         :attitude => "hot-headed"
+<<<<<<< HEAD
       }]
+=======
+      }
+      
+      ]
+>>>>>>> 7b88b9bbd4725c70735e5e743dd43dca2d3bbc12
    }, 
    :capulet => {
       :patriarch => {name: "Lord Capulet", age: "50"},
@@ -30,4 +36,10 @@ def fourth_challenge
       ]
    }
 }
+<<<<<<< HEAD
+=======
+
+  
+
+>>>>>>> 7b88b9bbd4725c70735e5e743dd43dca2d3bbc12
 end
